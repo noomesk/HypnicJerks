@@ -128,7 +128,7 @@ Google Analytics will only appear in production.
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/SupunKavinda/jekyll-theme-leaf. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-## Development
+## Development up
 
 To set up your environment to develop this theme, run `bundle install`.
 
